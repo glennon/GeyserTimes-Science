@@ -1,5 +1,5 @@
-*An Inventory of Geyser Observation Data Problems*
+**An Inventory of Geyser Observation Data Problems**
 
-* Missing eruptions; many geyser eruptions are not reported, particularly at night. The dataset is only a sample of the actual geyser eruption activity.
-* Ambiguous closed intervals; It is often ambiguous as to when an eruption has not been reported or whether a long period has occurred between eruptions.
-* Duration/discharge/height are rarely collected. It is simple to record a geyser name and start time. 
+* *Missing eruptions*; many geyser eruptions are not reported, particularly at night. The dataset is only a sample of the actual geyser eruption activity.
+* *Ambiguous closed intervals*; It is often ambiguous as to when an eruption has not been reported or whether a long period has occurred between eruptions.
+* *Duration/discharge/height are rarely collected*; It is simple to record a geyser name and start time. 
