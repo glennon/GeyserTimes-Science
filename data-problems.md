@@ -1,4 +1,10 @@
-**An Inventory of Geyser Observation Data Problems**  
+**An Inventory of Geyser Observation Data Problems** 
+
+*Let's start this as a wiki, then when it stabilizes, come back and update this file.*
+*Link:* https://github.com/glennon/GeyserTimes-Science/wiki
+
+
+
 Rationale: Illustrate common problems and create a starting point for brainstorming solutions. While some of these issues may be impractical to solve, mobile computing, data loggers, crowdsourcing and/or field observation may afford methods for improvements.
 
 * *Missing eruptions*; many geyser eruptions are not reported, particularly at night. The dataset is only a sample of the actual geyser eruption activity.
