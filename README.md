@@ -1,6 +1,9 @@
 ### GeyserTimes Science
 This repository contains resources to support the scientific use of the [GeyserTimes](http://geysertimes.org) platform. 
 
+* **Bug Reports**
+If you encounter a bug in the GeyserTimes app and would like to report it, please submit an issue; instructions  [here](https://help.github.com/articles/creating-an-issue/). You can use the label *Bug* to highlight the issue.
+
 * **Suggestions**
 If you have suggestions for how to improve GeyserTimes (GT), please submit an issue; instructions  [here](https://help.github.com/articles/creating-an-issue/).
 
