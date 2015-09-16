@@ -2,7 +2,7 @@
 This repository contains resources to support the scientific use of the [GeyserTimes](http://geysertimes.org) platform. 
 
 * **Bug Reports**
-If you encounter a bug in the GeyserTimes webpage or app and would like to report it, please submit an issue; instructions  [here](https://help.github.com/articles/creating-an-issue/). Add the label *bug* to highlight the issue.
+If you encounter a bug in the GeyserTimes webpage or app, the best way to report it is by submitting an issue; general instructions can be found [here](https://help.github.com/articles/creating-an-issue/). Add the label *bug* to highlight the issue.
 
 * **Suggestions**
 If you have suggestions for how to improve GeyserTimes (GT), please submit an issue; instructions  [here](https://help.github.com/articles/creating-an-issue/). Add the label *suggestion* to highlight the issue. If using a GitHub Issue is too confusing, suggestions and comments can also be sent to: webmaster[at]geysertimes.org.
