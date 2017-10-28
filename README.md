@@ -31,7 +31,7 @@ Including GeyserTimes in your acknowledgement sections is always appreciated; e.
 GeyserTimes infrastructure supports some programmatic retrieval requests; [API documentation](http://geysertimes.org/api/v4/docs/index.php).  
 
 #### Temperature Logger Data  
-The National Park Service and Yellowstone Volcanic Observatory data loggers are archived [here](http://geysertimes.org/datalogger/index.php). See a visualization of available logging data [here](http://geysertimes.org/datalogger/analysis/punchcard/punchcard.php).
+The National Park Service and Yellowstone Volcanic Observatory data loggers are archived [here](http://geysertimes.org/datalogger/index.php).
 
 #### Bug Reports and Suggestions    
 If you encounter a bug in the GeyserTimes webpage or app, the best way to report it is by submitting an issue; general instructions can be found [here](https://help.github.com/articles/creating-an-issue/). Add the label *bug* to highlight the note. Similarly, submit an issue if you have suggestions for how to improve GeyserTimes. Add the label *suggestion* to highlight the issue. If using a GitHub Issue is too confusing, suggestions and comments can also be sent to: webmaster[at]geysertimes.org.
