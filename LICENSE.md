@@ -1,6 +1,6 @@
 The MIT License (MIT)
 
-Copyright (c) 2015 GeyserTimes and Contributors  <p />
+Copyright (c) 2017 GeyserTimes and Contributors  <p />
 
 Note: The GeyserTimes database is licensed under [ODbL](http://opendatacommons.org/licenses/odbl/summary/). Software associated with GeyserTimes, including its license, are covered by other licenses. This MIT license only applies to code and text within the https://github.com/glennon/GeyserTimes-Science repository.
 
