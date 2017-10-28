@@ -1,7 +1,7 @@
 ### GeyserTimes Science
 This repository contains resources to support the scientific use of the [GeyserTimes](http://geysertimes.org) platform. 
 
-
+---
 
 #### Data License, Attribution, and Naming
 GeyserTimes uses the [Open Source Database License](http://opendatacommons.org/licenses/odbl/summary/). Though GT data are open, the license has a few stipulations, including that you attribute the project and share alike. The minimum expected attribution is: `© GeyserTimes`. On digital platforms, a link from the attribution to https://geysertimes.org should be included (Example: [© GeyserTimes](https://geysertimes.org)). The proper spelling and capitalization of the project is *GeyserTimes* -- written as a single word with the *G* and *T* capitalized.
