@@ -8,7 +8,7 @@ GeyserTimes uses the [Open Source Database License](http://opendatacommons.org/l
 
 
 #### Scientific Citation Formatting
-The following are citation examples in the APA style for a single geyser eruption, multiple days of data, multiple geysers over a multi-year time span, and a large survey of geysers over a single year. The title of the webpage should be constructed by the user to succintly describe the data in a human-understanble format--toward enabling future readers to retrieve the data themselves.
+The following are citation examples in the APA style for a single geyser eruption, multiple days of data, multiple geysers over a multi-year time span, and a large survey of geysers over a single year. The title of the webpage should be constructed by the user to succinctly describe the data in a human-understanble format--toward enabling future readers to retrieve the data themselves.
 
 * `GeyserTimes. (2017) Eruption of Old Faithful Geyser, May 1, 2017 [online database]. Retrieved May 4, 2017, from https://geysertimes.org.`  <p />
 * `GeyserTimes. (2017) Eruptions of Old Faithful Geyser, May 1-3, 2017 [online database]. Retrieved May 4, 2017, from https://geysertimes.org.`  <p />
