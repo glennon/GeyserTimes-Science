@@ -2,7 +2,7 @@ Thanks for your interest in contributing to this [GeyserTimes](http://geysertime
 
 *<strong>Welcome</strong>* :+1:  
 
-This project and its contributors follow the [Contributor Convenant 1.2](http://contributor-covenant.org/): we treat each other with respect and are committed to a harrassment-free experience for everyone. If you have questions or issues, contact: glennon([at])gmail.com.
+This project and its contributors follow the [Contributor Convenant](http://contributor-covenant.org/): we treat each other with respect and are committed to a harrassment-free experience for everyone. If you have questions or issues, contact: glennon([at])gmail.com.
 
 *<strong>Use the GitHub Flow</strong>* :octocat:  
 
