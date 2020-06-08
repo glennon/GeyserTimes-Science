@@ -1,4 +1,4 @@
-### GeyserTimes Science
+### GeyserTimes Science (as of 7 June 2020, this is now outdated. Update coming soon).
 This repository contains resources to support the scientific use of the [GeyserTimes](http://geysertimes.org) platform. 
 
 ---
