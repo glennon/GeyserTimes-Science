@@ -1,6 +1,6 @@
 
 # DRAFT 8 June 2020
-WE will be moving this whole repository over the github.com/geysertimes soon. So, consider this whole repo somewhat or on its way to being deprecated.
+We/I will be moving this whole repository over the github.com/geysertimes soon. So, consider this whole repo somewhat or on its way to being deprecated.
 
 ### Data Licenses and Attribution
 
